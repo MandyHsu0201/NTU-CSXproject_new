@@ -1,0 +1,7 @@
+dic_find 可用來找json的字典
+key_word_find
+當沒有next來表示下一頁時，可用try except
+
+可將不會出現的文字放入一個字典，若文字落在那個字典時，使用pot去刪除
+
+

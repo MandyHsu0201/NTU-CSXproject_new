@@ -1,0 +1,8 @@
+可參考這個網頁，http://blog.infographics.tw/2016/11/google-spreadsheet-data-scraping/
+使用Google Spreadsheet 資料爬取
+
+其實， Google Spreadsheet 已經內含了幾個資料爬取的工具，其中包括：
+importDATA – 讀取網路上的 CSV / TSV 檔
+importHTML — 讀取網頁表格
+importXML — 讀取任意網頁內容
+使用 Magic JSON 匯入 json 檔
